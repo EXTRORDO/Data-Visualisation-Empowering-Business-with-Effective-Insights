@@ -38,7 +38,7 @@ The CEO was looking to gain insights on the demand for their products. He wanted
 * Created a new column of revenue by multiplying **Unit price** with **Quantity**
 
 ## Visualisation Part
-**1 : Line Chart** : If you see the question 1 the chart that will fit is line chart , if any one talk about time series the line chart will be fit for that
-**2 : Column Chart** : question 2 will be solved by column chart because here was two category that we have to show side by side country-wise 
-**3 : Bar Chart** : Question 3 was the easy task we have to see the revenue of top 10 customer the bar chart will be fit for that
-**4 : Map** : question 4 was all about the countries that showing higher revenue if we talk about Region wise things then easily we choose map to know abou
+**Line Chart** : If you see the question 1 the chart that will fit is line chart , if any one talk about time series the line chart will be fit for that
+**Column Chart** : question 2 will be solved by column chart because here was two category that we have to show side by side country-wise 
+**Bar Chart** : Question 3 was the easy task we have to see the revenue of top 10 customer the bar chart will be fit for that
+**Map** : question 4 was all about the countries that showing higher revenue if we talk about Region wise things then easily we choose map to know abou
