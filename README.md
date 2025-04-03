@@ -12,4 +12,3 @@ Creating a visual of an online retail store which is performing well in the busi
 •	For the repeat customers, how long does it take for them to place the next order after being delivered the previous one?
 •	What revenue is being generated from the customers who have ordered more than once?
 •	Who are the customers that have repeated the most? How much are they contributing to revenue?
-
